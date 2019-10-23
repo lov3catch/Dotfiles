@@ -1,0 +1,5 @@
+NuGet/
+configstore/
+htop/
+coc/extensions/coc-phpls-data/
+coc/extensions/node_modules/

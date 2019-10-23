@@ -1,0 +1,8 @@
+{
+    "suggest.autoTrigger": "always",
+    "suggest.timeout": 500,
+    "suggest.noselect": false,
+    "suggest.triggerAfterInsertEnter": true,
+    "suggest.minTriggerInputLength": 0,
+    "suggest.snippetIndicator": "►"
+}

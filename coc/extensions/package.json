@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "coc-ultisnips": ">=1.2.3",
+    "jest-snippets": "https://github.com/andys8/vscode-jest-snippets",
+    "coc-json": ">=1.2.3",
+    "coc-phpls": ">=2.0.7",
+    "coc-highlight": ">=1.2.5"
+  }
+}
