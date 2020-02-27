@@ -1,4 +1,5 @@
 call plug#begin('~/.local/share/nvim/plugged')
+Plug 'dracula/vim'
 Plug 'editorconfig/editorconfig-vim'
 Plug 'airblade/vim-gitgutter'
 Plug 'scrooloose/nerdtree'
@@ -53,6 +54,8 @@ inoremap <expr> <S-Tab> pumvisible() ? "\<C-p>" : "\<S-Tab>"
 inoremap <expr> <cr> pumvisible() ? "\<C-y>" : "\<C-g>u\<CR>"
 
 autocmd CursorHold * silent call CocActionAsync('highlight')
+
+colorscheme dracula
 
 " COC
 " Better display for messages
